@@ -1,48 +1,31 @@
-This is a Kotlin Multiplatform project targeting Android, iOS, Desktop (JVM).
+# My Profile App - Matcha Strawberry Edition 🍓🍵
 
-* [/composeApp](./composeApp/src) is for code that will be shared across your Compose Multiplatform applications.
-  It contains several subfolders:
-  - [commonMain](./composeApp/src/commonMain/kotlin) is for code that’s common for all targets.
-  - Other folders are for Kotlin code that will be compiled for only the platform indicated in the folder name.
-    For example, if you want to use Apple’s CoreCrypto for the iOS part of your Kotlin app,
-    the [iosMain](./composeApp/src/iosMain/kotlin) folder would be the right place for such calls.
-    Similarly, if you want to edit the Desktop (JVM) specific part, the [jvmMain](./composeApp/src/jvmMain/kotlin)
-    folder is the appropriate location.
+Tugas Praktikum Minggu 3 - Pemrograman Aplikasi Mobile (PAM). Aplikasi ini merupakan profil pribadi interaktif yang dibangun menggunakan **Compose Multiplatform**.
 
-* [/iosApp](./iosApp/iosApp) contains iOS applications. Even if you’re sharing your UI with Compose Multiplatform,
-  you need this entry point for your iOS app. This is also where you should add SwiftUI code for your project.
+## Identitas Mahasiswa
+- **Nama**: Choirunnisa Syawaldina
+- **NIM**: 123140136
+- **Prodi**: Teknik Informatika
+  
+## Fitur Utama
+Aplikasi ini dirancang dengan estetika modern dan memenuhi seluruh rubrik penilaian:
+- **Layout Modern**: Menggunakan kombinasi `Box`, `Column`, dan `Row` dengan teknik *Glassmorphism* dan *Deep Curved Header*.
+- **Aesthetic Theme**: Palet warna **Matcha Strawberry** (Antique White, Pink Raspberry, Tea Green).
+- **Reusable Components**: Implementasi komponen kustom seperti `InfoCard` dan `ProfileHeader` yang dapat digunakan kembali.
+- **Bonus Animasi (+10%)**: Implementasi **Staggered Entrance Animation** menggunakan `AnimatedVisibility` sehingga elemen muncul satu per satu secara mengalir.
 
-### Build and Run Android Application
+## 📸 Screenshot
+| Profile Page |
+| :---: |
+| ![Profile Screen](<img width="378" height="828" alt="Screenshot 2026-03-09 201149" src="https://github.com/user-attachments/assets/a3240ba2-e08b-4ba0-8e7c-c062cbceefa6" />
+ | (<img width="367" height="315" alt="Screenshot 2026-03-09 201158" src="https://github.com/user-attachments/assets/0777cbe0-742e-4f72-9850-7fd1ee6b05e7" />
+) |
 
-To build and run the development version of the Android app, use the run configuration from the run widget
-in your IDE’s toolbar or build it directly from the terminal:
-- on macOS/Linux
-  ```shell
-  ./gradlew :composeApp:assembleDebug
-  ```
-- on Windows
-  ```shell
-  .\gradlew.bat :composeApp:assembleDebug
-  ```
 
-### Build and Run Desktop (JVM) Application
-
-To build and run the development version of the desktop app, use the run configuration from the run widget
-in your IDE’s toolbar or run it directly from the terminal:
-- on macOS/Linux
-  ```shell
-  ./gradlew :composeApp:run
-  ```
-- on Windows
-  ```shell
-  .\gradlew.bat :composeApp:run
-  ```
-
-### Build and Run iOS Application
-
-To build and run the development version of the iOS app, use the run configuration from the run widget
-in your IDE’s toolbar or open the [/iosApp](./iosApp) directory in Xcode and run it from there.
+## 🛠️ Teknologi yang Digunakan
+- **Kotlin Multiplatform**
+- **Jetpack Compose / Compose Multiplatform**
+- **Material 3 UI Components**
 
 ---
-
-Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+"Where the calm of matcha meets the sweetness of strawberry" 🍓🍵
