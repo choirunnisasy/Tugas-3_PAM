@@ -1,11 +1,11 @@
 # My Profile App - Matcha Strawberry Edition 🍓🍵
 
-Tugas Praktikum Minggu 3 - Pemrograman Aplikasi Mobile (PAM). Aplikasi ini merupakan profil pribadi interaktif yang dibangun menggunakan **Compose Multiplatform**.
+Tugas Praktikum Minggu 3 - Pengembangan Aplikasi Mobile (PAM). Aplikasi ini merupakan profil pribadi interaktif yang dibangun menggunakan **Compose Multiplatform**.
 
 ## Identitas Mahasiswa
 - **Nama**: Choirunnisa Syawaldina
 - **NIM**: 123140136
-- **Mata Kuliah**: Pemrograman Aplikasi Mobile RB
+- **Mata Kuliah**: Pengembangan Aplikasi Mobile RB
   
 ## Fitur Utama
 Aplikasi ini dirancang dengan estetika modern dan memenuhi seluruh rubrik penilaian:
