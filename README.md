@@ -17,9 +17,9 @@ Aplikasi ini dirancang dengan estetika modern dan memenuhi seluruh rubrik penila
 ## 📸 Screenshot
 | Profile Page |
 | :---: |
-| (<img width="378" height="828" alt="Screenshot 2026-03-09 201149" src="https://github.com/user-attachments/assets/a3240ba2-e08b-4ba0-8e7c-c062cbceefa6" />
- | (<img width="367" height="315" alt="Screenshot 2026-03-09 201158" src="https://github.com/user-attachments/assets/0777cbe0-742e-4f72-9850-7fd1ee6b05e7" />
-) |
+| <img width="378" height="828" alt="Screenshot 2026-03-09 201149" src="https://github.com/user-attachments/assets/a3240ba2-e08b-4ba0-8e7c-c062cbceefa6" />
+ | <img width="367" height="315" alt="Screenshot 2026-03-09 201158" src="https://github.com/user-attachments/assets/0777cbe0-742e-4f72-9850-7fd1ee6b05e7" />
+|
 
 
 ## 🛠️ Teknologi yang Digunakan
