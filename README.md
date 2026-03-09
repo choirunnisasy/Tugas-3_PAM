@@ -5,7 +5,7 @@ Tugas Praktikum Minggu 3 - Pemrograman Aplikasi Mobile (PAM). Aplikasi ini merup
 ## Identitas Mahasiswa
 - **Nama**: Choirunnisa Syawaldina
 - **NIM**: 123140136
-- **Prodi**: Teknik Informatika
+- **Mata Kuliah**: Pemrograman Aplikasi Mobile RB
   
 ## Fitur Utama
 Aplikasi ini dirancang dengan estetika modern dan memenuhi seluruh rubrik penilaian:
